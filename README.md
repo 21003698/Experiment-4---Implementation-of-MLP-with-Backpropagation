@@ -160,6 +160,21 @@ print(classification_report(y_test,predictions))
 ```
 
 
-## OUTPUT 
+### OUTPUT 
 
-## RESULT
+<img width="527" alt="NN1" src="https://user-images.githubusercontent.com/93427522/198937747-bd57220a-b28d-482c-97d1-448913c9a707.png">
+
+<img width="464" alt="NN2" src="https://user-images.githubusercontent.com/93427522/198937784-3f5dacb4-2375-46c9-b42d-427a1e68a626.png">
+
+<img width="450" alt="NN3" src="https://user-images.githubusercontent.com/93427522/198937809-3522ebda-4ba5-46d7-9970-0d7596f95053.png">
+
+<img width="450" alt="NN4" src="https://user-images.githubusercontent.com/93427522/198937830-25ca271a-ae7d-459b-a8e6-053ee8ec0128.png">
+
+<img width="527" alt="NN5" src="https://user-images.githubusercontent.com/93427522/198937846-11efab53-4404-4974-9108-8184c5c1d42d.png">
+
+<img width="514" alt="NN6" src="https://user-images.githubusercontent.com/93427522/198937862-bd3e43c7-8b6c-4778-b24a-64084f1a6f09.png">
+
+### RESULT
+Thus Implementation-of-MLP-with-Backpropagation problem is executed successfully.
+
+
